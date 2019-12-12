@@ -1,0 +1,2 @@
+# peoplearenotmascots
+Repository for website
